@@ -1,8 +1,20 @@
-# React + Vite
+🧠 Memory Game
+🚀 Live Demo: memorygameanuj.netlify.app
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+📌 Overview
+A fun and interactive Memory Card Game built using React.js. Players flip cards to find matching pairs while testing their memory skills. The game includes smooth animations, a timer, and score tracking for an engaging experience.
 
-Currently, two official plugins are available:
+🛠️ Tech Stack
+Frontend: React.js, HTML, CSS
+State Management: React Hooks
+Deployment: Netlify
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+✨ Features
+
+✅ Flip cards to match pairs and test memory skills
+
+✅ Timer and move counter for performance tracking
+
+✅ Smooth animations for a fun experience
+
+✅ Fully responsive design for mobile & desktop
